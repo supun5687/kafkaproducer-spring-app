@@ -1,4 +1,11 @@
 # kafka local installation guide
+server.properties file
+----------------------------
+log.dirs=D:/BigDataLocalSetup/tmp/kafka-logs
+
+zookeeper.properties file
+---------------------------
+dataDir=D:/BigDataLocalSetup/tmp/zookeeper
 
 start zookeeper
 ------------------------
